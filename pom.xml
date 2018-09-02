@@ -5,7 +5,7 @@
 
     <groupId>de.alexanderkaden</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>my-pet-clinic-data</module>
         <module>my-pet-clinic-web</module>
@@ -47,7 +47,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/aykay87/my-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
     </scm>
 
 </project>
