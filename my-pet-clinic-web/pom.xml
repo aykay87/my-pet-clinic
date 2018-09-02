@@ -4,7 +4,7 @@
     <parent>
         <artifactId>my-pet-clinic</artifactId>
         <groupId>de.alexanderkaden</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.2-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -15,7 +15,7 @@
         <dependency>
             <artifactId>my-pet-clinic-data</artifactId>
             <groupId>de.alexanderkaden</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.2-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
